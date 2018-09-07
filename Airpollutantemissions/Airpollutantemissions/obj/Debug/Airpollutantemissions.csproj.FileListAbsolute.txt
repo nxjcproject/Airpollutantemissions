@@ -37,3 +37,16 @@ F:\NXJC\大气污染物\Airpollutantemissions\Airpollutantemissions\Airpollutant
 F:\NXJC\大气污染物\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.csprojResolveAssemblyReference.cache
 F:\NXJC\大气污染物\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.dll
 F:\NXJC\大气污染物\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.pdb
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\Airpollutantemissions.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\Airpollutantemissions.pdb
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\SqlServerDataAdapter.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\AutoSetParameters.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\Standard_GB16780-2012.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\StatisticalReport.Infrastructure.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\EnergyConsumption.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\mDbDataAdaper.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\AutoSetParameters.pdb
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\bin\mDbDataAdaper.pdb
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.dll
+C:\Users\Administrator\Desktop\Airpollutantemissions\Airpollutantemissions\Airpollutantemissions\obj\Debug\Airpollutantemissions.pdb
